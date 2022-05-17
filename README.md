@@ -1,5 +1,6 @@
 🌌 Hi, I’m @bmmfUA
 🌌 PT
+🌌 Java,C#,C,HTML,PHP,Python,Javascript
 
 
 <!---
